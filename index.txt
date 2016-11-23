@@ -8,7 +8,7 @@ style
 JS = Javascript
 interactivity
 
-Vocabulary
+Vocabulary & Syntax
 elements have the following syntax: &lt;tag attribute="value"&gt;content&lt;/tag&gt;
 
 Block vs. Inline
